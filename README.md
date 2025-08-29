@@ -77,7 +77,7 @@ Implemented a **Snowflake Schema** for scalable, efficient, and flexible data mo
 ---
 
 ## 📷 Screenshots  
-(Finance view.png)
+(Finance view.png)(https://github.com/pavan-4/End-to-End-Business-Insights-Dashboard/blob/10a383faf22345180d9b1de60cc6313555e373b6/Finance%20View.png)
 (Sales View.png)
 (Marketing View.png)
 (Supply-chain View.png)
