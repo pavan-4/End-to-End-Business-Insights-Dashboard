@@ -76,12 +76,21 @@ Implemented a **Snowflake Schema** for scalable, efficient, and flexible data mo
 
 ---
 
-## 📷 Screenshots   
+## 📷 Screenshots  
 
+### 💹 Finance View  
 ![Finance View](Finance%20View.png)  
+
+### 💰 Sales View  
 ![Sales View](Sales%20View.png)  
+
+### 📢 Marketing View  
 ![Marketing View](Marketing%20View.png)  
+
+### 💱 Supply Chain View  
 ![Supply Chain View](Supply-chain%20View.png)  
+
+### 👨🏻‍💼 Executive View  
 ![Executive View](Executive%20View.png)  
 
 
