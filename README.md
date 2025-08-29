@@ -76,12 +76,15 @@ Implemented a **Snowflake Schema** for scalable, efficient, and flexible data mo
 
 ---
 
-## 📷 Screenshots  
-[Finance View.png](Finance view.png)
-(Sales View.png)
-(Marketing View.png)
-(Supply-chain View.png)
-(Executive View.png)
+## 📷 Screenshots   
+
+![Finance View](Finance%20View.png)  
+![Sales View](Sales%20View.png)  
+![Marketing View](Marketing%20View.png)  
+![Supply Chain View](Supply-chain%20View.png)  
+![Executive View](Executive%20View.png)  
+
+
 
 ## 🔗 Live Dashboard  
 👉 [Click here to view the Power BI report](https://app.powerbi.com/view?r=eyJrIjoiZjRkMzM4NzgtMzdjYi00YThkLTliZWItMmRmM2ZlZWZkOWQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
